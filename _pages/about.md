@@ -4,26 +4,29 @@ title: About
 permalink: /about/
 ---
 
-[Reverie](https://github.com/amitmerchant1990/reverie) is a Jekyll theme which is simple and opinionated. It's actually a fork of [jekyll-now](https://github.com/barryclark/jekyll-now) with some additional features and personal touches which I've implemented to suit my needs for [my blog](https://www.amitmerchant.com).
+# Welcome
 
-This is a plug-and-play Jekyll theme which you can use on GitHub Pages without even setting up a local environment.
+I'm gentleman with intriguing tendencies hailing from the Southern United States. I publish as the SouthernSoftDom.
 
-## Features
+I'm a lover of words, ideas, and the connections they enable with real people. After some encouragement I decided I would start to share some thoughts, orignal writings, and audio stories.
 
-- Command-line free fork-first workflow, using GitHub.com to create, customize and post to your blog
-- Fully responsive and mobile optimized base theme
-- Sass/Coffeescript support using Jekyll 2.0
-- Free hosting on your GitHub Pages user site
-- All the SEO goodies comes in-built
-- Markdown blogging
-- Syntax highlighting using Pygments
-    - [Dracula syntax theme](https://draculatheme.com/) included
-- Disqus commenting
-- Google Analytics integration
-- Fuzzy search across blog posts
-- Pagination of posts works out-of-the-box.
-- Categorize posts out-of-the box
-- RSS Feed
-- In-built sitemap
+I hope you enjoy and Thank you for visiting.
 
-Learn more about it [here](https://github.com/amitmerchant1990/reverie) on how to get started.
+⤚SSD⤙
+
+# Links
+
+## Follow
+
+- [Reddit   ➣ u/SouthernSoftDom](https://www.reddit.com/user/SouthernSoftDom/)
+- [Mastodon ➣ @SouthernSoftDom](https://mastodon.social/@southernsoftdom)
+- [Telegram ➣ @SSDbroadcast](https://t.me/ssdbroadcast)
+
+## Content
+
+- [Audio Erotica](https://soundgasm.net/u/SouthernSoftDom)
+- Written Erotica (coming soon)
+
+### License
+
+All original content is licensed by SouthernSoftDom under [CC BY-NC-SA 4.0 ](https://creativecommons.org/licenses/by-nc-sa/4.0/?ref=chooser-v1) ![gras](https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1)
