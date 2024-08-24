@@ -4,13 +4,13 @@ title: About
 permalink: /about/
 ---
 
-A little About Me...
+A Little About Me...
 
-I'm gentleman with intriguing tendencies hailing from the Southern United States. I publish as the SouthernSoftDom.
+I'm a Southern gentleman with a penchant for exploration, experimentation, and building real connections. You can find me publishing as the SouthernSoftDom.
 
-I'm a lover of words, ideas, and the connections they enable with real people. After some encouragement I decided I would start to share some thoughts, orignal writings, and audio stories.
+Driven by a deep love for words and the power they hold to connect us, I’ve decided to share my musings, original stories, and audio creations with those who appreciate a touch of affection intertwined with carnal desires.
 
-I hope you enjoy and Thank you for visiting.
+Whether you're here out of curiosity or passion, I hope you find something that resonates. Thank you for stopping by—I’m glad to have you here.
 
 ⤚SSD⤙
 
