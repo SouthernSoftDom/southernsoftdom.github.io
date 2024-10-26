@@ -1,10 +1,8 @@
 ---
 layout: post
-title: Privacy & Security Tips for 🌶️ Alt Accounts
+title: Privacy & Security Tips for 🌶️ Alt. Accounts and Content Creators
 categories: tips
 ---
-
-# Privacy & Security Tips for 🌶️ Alt. Accounts and Content Creators
 
 Maintaining privacy while managing an alternative online identity can be challenging, but with some thoughtful steps, you can significantly improve your security. This guide isn't comprehensive, but it's a great starting point. Keep learning and check out the resources linked at the end!
 
